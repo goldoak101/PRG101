@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Thermometer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Thermometer\ here.\n\n\ @author\ (S.Gullik.E)\n\ @version\ (1.6v)\n
+comment1.params=
+comment1.target=Thermometer()
+comment2.params=id\ locationCode\ usable\ minTemprature\ maxTemprature
+comment2.target=Thermometer(java.lang.String,\ java.lang.String,\ boolean,\ double,\ double)
+comment3.params=
+comment3.target=double\ getMinTemprature()
+comment4.params=minTemprature
+comment4.target=void\ setMinTemprature(double)
+comment5.params=
+comment5.target=double\ getMaxTemprature()
+comment6.params=maxTemprature
+comment6.target=void\ setMaxTemprature(double)
+numComments=7

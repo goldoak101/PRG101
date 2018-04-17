@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MeterArchive
+comment0.text=\n\ Write\ a\ description\ of\ class\ MeterArchive\ here.\n\n\ @author\ (S.Gullik.E)\n\ @version\ (1.6v)\n
+comment1.params=
+comment1.target=MeterArchive()
+comment2.params=obj
+comment2.target=void\ addInstrument(Meter)
+comment3.params=obj
+comment3.target=void\ removeInstrument(Meter)
+comment4.params=idNumber
+comment4.target=Meter\ getInstrument(java.lang.String)
+comment5.params=idNumber
+comment5.target=boolean\ removeInstrument(java.lang.String)
+comment6.params=idNumber\ newLocationCode
+comment6.target=boolean\ changeInstrumentLocation(java.lang.String,\ java.lang.String)
+comment7.params=idNumber\ newUsable
+comment7.target=boolean\ changeInstrumentUsable(java.lang.String,\ boolean)
+comment8.params=
+comment8.target=void\ printInstruments()
+numComments=9
